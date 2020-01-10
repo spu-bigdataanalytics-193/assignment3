@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# git keep
+spark-tool-screenshots/*
+!spark-tool-screenshots/*.gitkeep
